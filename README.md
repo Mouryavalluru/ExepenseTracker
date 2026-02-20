@@ -133,3 +133,9 @@ Or run directly from your IDE by executing `App.main()`.
 - ✅ Charts & visual reports
 - ✅ Object-Oriented Programming principles
 - ✅ Real-world financial problem solving
+
+
+
+# APPLICATION VIEW
+
+
