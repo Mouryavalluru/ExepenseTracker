@@ -138,4 +138,13 @@ Or run directly from your IDE by executing `App.main()`.
 
 # APPLICATION VIEW
 
+- <img width="1621" height="1039" alt="image" src="https://github.com/user-attachments/assets/52c7f8f6-a218-4c1d-8ef8-d82e55929441" />
+- <img width="1631" height="1040" alt="image" src="https://github.com/user-attachments/assets/30bebf15-19e3-46d2-a3f8-d982bdb67216" />
+- <img width="1618" height="1032" alt="image" src="https://github.com/user-attachments/assets/b668355d-c3d2-4e0c-9814-c1f1e6503e95" />
+- <img width="1622" height="1046" alt="image" src="https://github.com/user-attachments/assets/08161122-6d36-44f9-bce0-bf844688d92b" />
+
+
+
+
+
 
